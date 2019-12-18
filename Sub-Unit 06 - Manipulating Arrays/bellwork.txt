@@ -1,0 +1,11 @@
+Please describe in detail the two types of arrays that are used in PHP. What is the best use of each? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please list and describe at least four useful array functions that are used in PHP. What is the each of them used for? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe the technique that is used to iterate through an associative array. Describe how one would obtain both the key and the value for each element. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe the technique that can be used to establish whether a value exists in an array. Describe how one would establish whether a key exists in an array. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe the various techniques that can be used to sort an array in various orderings. You may quote outside sources to help with this, but explanations must be in your own words.
+
+

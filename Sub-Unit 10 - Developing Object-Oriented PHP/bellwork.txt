@@ -1,0 +1,25 @@
+Please research, and briefly explain in your own words, the concept of an object-oriented programming language. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please list, and briefly explain in your own words, the three requirements needed to support an object-oriented programming language. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe, in your own words, the relevant terminology about an object. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please explain, in your own words, the meaning of an OOP class. What purpose do they serve? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe, in your own words, the steps used to declare and instantiate objects. What is the purpose of a class constructor? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe, in your own words, the differences in establishing a database connection using procedural style vs object-oriented style. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe, in your own words, the steps you would take to define a custom class. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe, in your own words, the concept of access specifiers. What are the types of specifiers? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe, in your own words, the concept of serialization. What is its fundamental usage? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe, in your own words, the meaning of the $this reference. What is its fundamental usage? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe, in your own words, the concept of a constructor function and how it is used. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe, in your own words, the concept of a destructor function and how it is used. What side effects might it have with regard to serialization and how can they be solved? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe, in your own words, the concept of a getter and setter functions and how they are used. You may quote outside sources to help with this, but explanations must be in your own words.

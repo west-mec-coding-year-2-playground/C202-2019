@@ -1,0 +1,16 @@
+Research the PHP HTTP Request Response Cycle. What is HTTP? What are the HTTP verbs, and what is each of them used for? You may quote an outside source to help with this, such as the one below. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Research the PHP associative array. Describe exactly what is meant by an associative array. How do they differ from indexed arrays? What is the method used to iterate over an associative array from start to finish? Describe the main uses of an associative array in PHP. You may quote an outside source to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Research the PHP concept of Superglobals. List each of the Superglobals available for use in your scripts. Describe in depth the usage of the Superglobals $_SERVER, $_POST, and $_GET. Pick one more of the Superglobals that interests you, and describe its usage in depth. Be prepared to share your explanations with the rest of the class. You may quote an outside source to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe the process of Web form transmission to a PHP script. Describe exactly the format that is used to append form data to a URL when using the GET method for form transmission. Describe the procedure by which form data extracted for use in a PHP script when using either the GET or POST method. You may quote an outside source to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe the tasks usually performed by a PHP form handler. How is data retrieved for use in the form handler? What are the procedures used in PHP to validate required fields, numeric data, and string data? Lastly, what is meant by a sticky form?You may quote an outside source to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe the concept of an "all-in-one form." What is the advantage of building PHP forms in this way? What must we track to know if a form must be displayed or redisplayed? How do we determine if a form has been submitted? You may quote an outside source to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe the exact structure of a URL which is going to be used to transmit form data on a form submission using the GET method. What are the advantages of transmitting using a URL? What are the disadvantages? You may quote an outside source to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Please describe in a detailed paragraph what you have learned in the current unit which adds PHP to your web technology portfolio. Please reflect on this in depth.
+

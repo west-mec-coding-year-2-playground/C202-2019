@@ -1,0 +1,15 @@
+Define and explain the various PHP database connectivity packages You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe the process of opening a database connection with PHP. Explain the functions that are available in PHP to obtain database client and server information. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+What are the various error processing functions of PHP. Explain what each of them is used for. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Explain the process of creating and executing an SQL query in PHP. what are the various types of return values that may be gotten from the execution of a query? You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Describe the SQL that is used to create a database table. Explain the various parts of the statement, including the individual extra keywords that may be used to describe the characteristics of a data field. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Explain the PHP functions that may be used to indicate the results of a query. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Explain how to use PHP to return the results of a query into an indexed array. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.
+
+Explain how to use PHP to return the results of a query into an associative array. You may use an outside link as a resource. You may quote it to help with this. However, explanations MUST be in your own words to receive a grade for content. Anything from the source must be correctly marked with quotes and cited.

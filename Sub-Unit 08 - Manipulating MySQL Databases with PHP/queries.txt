@@ -1,0 +1,3 @@
+CREATE TABLE subscribers (subscriberID SMALLINT NOT NULL AUTO_INCREMENT PRIMARY KEY, name VARCHAR(80), email VARCHAR(100), subscribe_date DATE, confirmed_date DATE)
+
+INSERT INTO $tablename (name, email, subscribe_date) VALUES('$subscriberName', '$subscriberEmail', '$subscriberDate')

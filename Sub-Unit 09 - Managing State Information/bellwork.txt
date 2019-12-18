@@ -1,0 +1,14 @@
+Please define in your own words, the meaning of maintaining state. What are the four commonly used techniques to accomplish this? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe in your own words, how one can maintain state by using hidden form fields. Describe the process. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe in your own words the usage of the superglobal $_REQUEST. What does it contain, and what are its advantages?. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe in your own words, how one can maintain state by using query strings. Describe the two ways in which they can be employed. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe in your own words how one would set a temporary cookie. What is the lifetime of that cookie? How would they be stored in indexed and associative arrays? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe in your own words how one would set a persistent cookie. What is the lifetime of that cookie? How would they be stored in indexed and associative arrays? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe in your own words the advantages of using sessions over cookies. What are the disadvantages? You may quote outside sources to help with this, but explanations must be in your own words.
+

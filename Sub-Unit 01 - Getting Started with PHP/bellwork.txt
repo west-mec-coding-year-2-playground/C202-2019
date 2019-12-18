@@ -1,0 +1,13 @@
+Please summarize, in your own words, what PHP is. What are some of its roots and history? What is its purpose as a language? Use outside sources for help to find out the background of what we will be learning.
+
+Please summarize, in your own words, your thoughts on PHP at this point. Is it very different than JavaScript? What do you feel are some of the similarities so far, and what are some of the differences? Not necessarily just the syntax, but in the purpose of the language as well.
+
+Please describe, in your own words, the rules of case sensitivity in PHP. What are the Best Practices you should employ with regard to case sensitivity and the various items which you can name yourself in PHP?
+
+Please contrast, in your own words, the similarities and differences in the usage of double quoted and single quoted strings in PHP. How do they relate to embedding variables within them? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe the rules in PHP for declaring and initializing variables. What are the naming rules? How may variables be displayed inside strings, and what are the differences between variables in single quoted and double quoted strings?
+
+Please describe what a constant is. How are they defined in PHP and how do they differ from variables? Why are constants such useful tools in programming languages?
+
+Please describe the various data types in PHP. What is each data type used for?

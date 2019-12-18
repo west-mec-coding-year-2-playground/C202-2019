@@ -1,0 +1,17 @@
+Please define in your own words, the meaning of function parameters. What is the difference between function parameters and arguments? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please define in your own words, the difference between pass by value and pass by reference. How do we implement pass by reference in PHP? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please define in your own words, the meaning of variable scope. What types of variable scope do we have in PHP? What is the method by which we can gain access to a global variable inside of a PHP function? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please define in your own words, the meaning of flow of control. What types of structures for flow of control do we have in PHP? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please define in your own words, the types of conditional PHP flow of control structures. Describe in your own words in what situations that you feel each is best used for. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please define in your own words, the types of iteration PHP flow of control structures. Describe in your own words in what situations that you feel each is best used for .You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please define in your own words, the PHP break and continue statements. Describe in your own words in what situations that you feel each is best used for .You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please explain in your own words, what statements are used to include external files into a PHP code file. Describe in your own words what this procedure is best is best used for What are the advantages of this capability? You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe in a detailed paragraph what you have learned in the current unit which adds PHP to your web technology portfolio. Please reflect on this in depth.

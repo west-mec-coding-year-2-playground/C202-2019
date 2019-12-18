@@ -1,0 +1,7 @@
+Please define in your own words, the meaning of escape sequences. Describe in your own words the structure of an escape sequence and where they are used. Give examples of some frequently used escape sequences and explain each of their purposes. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please list the various string functions that may be used to modify the case of a string.For each of them, describe their syntax and explain each of their purposes. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please list the various string functions that may be used to encode and decode a string.For each of them, describe their syntax and explain each of their purposes. You may quote outside sources to help with this, but explanations must be in your own words.
+
+Please describe in your own words what is meant by the term tokenizing a string. What is the definition of, and use for, a delimiter? Give a practical example where you might want to build a string that can be tokenized. Describe the syntax and the process used to tokenize a string. You may quote outside sources to help with this, but explanations must be in your own words.
